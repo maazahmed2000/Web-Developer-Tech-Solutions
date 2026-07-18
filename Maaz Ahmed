@@ -1,0 +1,28 @@
+Project Description — VOLTGEAR (Mobile & Laptop Accessories Website)
+Project Title: VOLTGEAR — E-Commerce Website for Mobile & Laptop Accessories
+Overview:
+VOLTGEAR ek fully responsive, client-facing e-commerce website hai jo mobile aur laptop accessories (phone cases, chargers, power banks, laptop stands, bags, earphones, wireless chargers, screen guards) bechne wale business ke liye banayi gayi hai. Website ka design red, white aur black color theme par based hai jo ek bold, modern aur tech-focused look deta hai.
+Objective:
+Is project ka maqsad ek aisi website banana hai jahan customer products browse kar sakein, cart mein add kar sakein, aur order place kar sakein — bina kisi complex backend setup ke, seedha WhatsApp ke zariye order confirm ho jaye.
+Technologies Used:
+
+HTML5 – Website ka structure
+CSS3 – Styling, responsive layout, animations (Flexbox & Grid based)
+JavaScript (Vanilla JS) – Cart functionality, search, form handling
+Google Fonts – Space Grotesk, Inter, JetBrains Mono
+
+Key Features:
+
+Responsive design – mobile, tablet aur desktop teeno pe perfectly chalta hai
+Product catalog with 8 categories aur 6+ featured products
+Functional shopping cart – add/remove items, quantity control, live subtotal
+Live product search bar
+WhatsApp-based checkout system – order details automatically WhatsApp message ban jati hain
+Bulk/reseller enquiry form
+Smooth scroll navigation, mobile hamburger menu
+Animated hero section aur marquee offer strip
+
+Target Audience:
+Mobile aur laptop users jo apne devices ke liye accessories online order karna chahte hain, aur small-to-medium accessories businesses jo apni online presence banana chahte hain.
+Deliverable:
+Single index.html file jisme complete source code (HTML + CSS + JS) maujood hai — koi extra installation ya server setup ki zaroorat nahi.
